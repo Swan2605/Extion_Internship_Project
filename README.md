@@ -2,15 +2,15 @@
 Extion Internship Project
 Overview
 This repository contains the tasks completed during my Cybersecurity Internship at Extion Infotech. The internship involved hands-on experience in performing vulnerability assessments and investigating cybersecurity incidents. Key learnings included using industry-standard tools and methodologies to analyze, mitigate, and document security vulnerabilities and breaches.
+-----IT CONTAINS MY PROJECT REPORT ------
 
 ************************************************************************************
 Table of Contents
 1.Projects
 2.Technologies Used
-3.Setup Instructions
-4.Features
-5.Contributions
-6.Acknowledgments
+3.Features
+4.Contributions
+5.Acknowledgments
 
 *************************************************************************************
 Projects
@@ -29,15 +29,6 @@ Vulnerability Scanning Tools: Nessus, OpenVAS
 Security Testing Tools: Nmap, OWASP ZAP
 Forensics Tools: Checksum Validators, Log Analyzers
 Incident Response: SIEM Systems (e.g., Splunk, ELK Stack)
-
-********************************************************************************
-Setup Instructions
-Clone the repository:
-git clone https://github.com/Swan2605/Extion_Internship_Project.git
-
-Navigate to the project directory:
-cd Extion_Internship_Project
-Follow task-specific documentation for tools or code setup.
 
 *********************************************************************************
 Features
